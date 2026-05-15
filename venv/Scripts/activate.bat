@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\SUMITH\Downloads\submission_assesment\quantum works\qiskit_demo\venv
+=======
+set VIRTUAL_ENV=C:\Users\SUMITH\Downloads\submission_assesment\quantum works\qiskit_file\venv
+>>>>>>> 9d4a649aed1d551daace47827859a91cfd497912
 
 if not defined PROMPT set PROMPT=$P$G
 

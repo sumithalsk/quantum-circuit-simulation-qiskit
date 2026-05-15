@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Quantum Circuit Simulation with Qiskit
@@ -99,3 +100,6 @@ quantum-circuit-simulation-qiskit/
 > After running, upload your screenshots to the `screenshots/` folder and push to GitHub for a visually impressive README!
 
 > After pushing to GitHub, add screenshots of your circuit and histogram outputs to the `screenshots/` folder for a more impressive README.
+=======
+# quantum-circuit-simulation-qiskit
+>>>>>>> 9d4a649aed1d551daace47827859a91cfd497912
