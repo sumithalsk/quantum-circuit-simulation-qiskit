@@ -1,2 +1,2 @@
-qiskit
+qiskit[visualization,aer]>=0.43.0
 matplotlib
