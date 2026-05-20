@@ -1,0 +1,9 @@
+// Railway deployment config for Node.js
+{
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  },
+  "start": "npm start"
+}

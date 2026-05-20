@@ -1,0 +1,9 @@
+// Railway deployment config for Vite React app
+{
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  },
+  "start": "npm run build && npm run preview"
+}
