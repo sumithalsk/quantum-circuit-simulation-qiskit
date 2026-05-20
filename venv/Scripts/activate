@@ -38,7 +38,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
+VIRTUAL_ENV="C:\Users\SUMITH\Downloads\submission_assesment\quantum works\qiskit_demo\venv"
+=======
 VIRTUAL_ENV="C:\Users\SUMITH\Downloads\submission_assesment\quantum works\qiskit_file\venv"
+>>>>>>> 9d4a649aed1d551daace47827859a91cfd497912
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
